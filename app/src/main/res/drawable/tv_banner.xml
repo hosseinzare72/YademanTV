@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- بنر تلویزیون ۳۲۰×۱۸۰: پس‌زمینهٔ سرمه‌ای + نشان طلایی + نام یادمان -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path android:pathData="M0,0h320v180h-320z" android:fillColor="#0C1018" />
+    <path
+        android:pathData="M0,0h320v180h-320z"
+        android:fillColor="#00000000"
+        android:strokeColor="#1CE8B84B"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M160,34 L206,53 L206,99 C206,126 187,145 160,152 C133,145 114,126 114,99 L114,53 Z"
+        android:fillColor="#141A26"
+        android:strokeColor="#E8B84B"
+        android:strokeWidth="3" />
+    <path
+        android:pathData="M160,62 m0,0 a10,10 0 1,0 0.1,0"
+        android:fillColor="#00000000"
+        android:strokeColor="#E8B84B"
+        android:strokeWidth="5" />
+    <path
+        android:pathData="M160,72 L160,92 L174,100"
+        android:strokeColor="#F7DE9B"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+</vector>
